@@ -6,12 +6,14 @@ Check out [this video](https://youtu.be/7CqJlxBYj-M) and [this article](https://
 Open the project folder in the terminal. 
 Use the `cd` command to drill into `.../mern-exercise-tracker/backend`.
 Type the command:
+
     nodemon server
 
 ## To start the frontend server
 Open the project folder in the terminal.
 Use the `cd` command to drill into `.../mern-exercise-tracker/`.
 Type the command:
+
     npm start
 
 ## Backend Environment Variables
