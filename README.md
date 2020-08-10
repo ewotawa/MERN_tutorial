@@ -2,6 +2,8 @@
 
 Check out [this video](https://youtu.be/7CqJlxBYj-M) and [this article](https://www.mongodb.com/blog/post/building-an-exercise-tracker-mern-tutorial?utm_campaign=Int_CLD_MERN%20Stack%20Tutorial_06_20_WW_Autoresponder&utm_source=eloqua&utm_medium=email&utm_term=Learn%20MERN%20with%20MongoDB) for a step-by-step how-to.
 
+The instructions below assume that the repo is cloned into a folder called `mern-exercise-tracker`.
+
 ## To start the backend server
 Open the project folder in the terminal. 
 Use the `cd` command to drill into `.../mern-exercise-tracker/backend`.
